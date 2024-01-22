@@ -17,8 +17,8 @@ Once you've created a Github account, you will need to download this repository 
 > Click on the green button that says "Code" > Download ZIP
 
 Unzip the folder. You should have the following documents downloaded:
-1. Project Submission Notebook: This is the .ipynb notebook that you need to submit
-2. The results.csv dataset. This is the csv file that you will analyze
+1. [Project Submission Notebook](https://github.com/journey-education/ds-admissions-challenge/blob/master/Project%20Submission.ipynb): This is the .ipynb notebook that you need to submit
+2. The [results.csv](https://github.com/journey-education/ds-admissions-challenge/blob/master/results.csv) dataset. This is the csv file that you will analyze
    
 ## Tools
 You will need to use Jupyter Notebooks and Python to get started. There are two ways:
