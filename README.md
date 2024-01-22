@@ -16,7 +16,7 @@ You'll need a Github account in order to download all the necessary files and to
 Once you've created a Github account, you will need to download this repository to your local drive.
 > Click on the green button that says "Code" > Download ZIP
 
-Unzip the folder. You should have the following documents downloaded:
+Unzip the folder. You should have the following files downloaded:
 1. [Project Submission Notebook](https://github.com/journey-education/ds-admissions-challenge/blob/master/Project%20Submission.ipynb): This is the .ipynb notebook that you need to submit
 2. The [results.csv](https://github.com/journey-education/ds-admissions-challenge/blob/master/results.csv) dataset. This is the csv file that you will analyze
    
@@ -29,8 +29,8 @@ You will need to use Jupyter Notebooks and Python to get started. There are two 
 
 Regardless of the tool you choose to complete your project, you will need to submit your notebook through Github. 
 1. Create a new public repository on your account. It's important that the repository is public.
-2. Upload the completed Project Submission notebook into this repository.
-3. Send the Github link to the .ipynb Project Submission Notebook to your contact person at Concordia Bootcamps by the given deadline.
+2. Upload your completed Project Submission notebook into this repository.
+3. Send the Github link to the .ipynb Project Submission notebook to your contact person at Concordia Bootcamps by the given deadline.
 
 ## Submission Requirements
 1. Your submission has to be in the form of a .ipynb notebook.
