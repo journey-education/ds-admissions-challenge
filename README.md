@@ -36,7 +36,7 @@ Regardless of the tool you choose to complete your project, you will need to sub
 1. Your submission has to be in the form of a .ipynb notebook.
 2. Use the provided Project Submission notebook.
 3. Make sure that you run all cells with code in your notebook before submitting.
-4. Clean up all the notebook, and only leave the code required to answer the questions.
+4. Clean up the notebook, and only leave code required to answer the questions.
 
 ## Resources
 You'll need to learn Python basics, as well as navigating Jupyter Notebooks. We recommend getting started with a few of these introductory beginner friendly resources:
