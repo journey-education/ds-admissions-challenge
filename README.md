@@ -22,7 +22,8 @@ Unzip the folder. You should have the following files downloaded:
    
 ## Tools
 Anaconda Navigator (the graphical user interface that comes with the Anaconda distribution of Python) is what you will use to access, create, edit and execute Jupyter Notebooks.
-You can install Anaconda Navigator on [THIS LINK.](https://www.anaconda.com/download)
+
+[Click here to install Anaconda Navigator.](https://www.anaconda.com/download)
 
 ## Project Submission
 
