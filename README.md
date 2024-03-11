@@ -1,9 +1,7 @@
-# Concordia Bootcamps Data Science Admissions Challenge
+# Data Science Admissions Challenge
 ## About the Project
 
 Using Python and a Jupyter Notebook, you’re going to explore a data set of over 40,000 international football matches! Don’t worry if you’ve never used Python before, this is a great project for beginners and we’ll provide you with all the resources you need to be successful 💪🏽
-
-The original project and dataset are from [Kaggle](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017).
 
 ## Getting Started: Creating a Github Account
 
@@ -30,13 +28,13 @@ Anaconda Navigator (the graphical user interface that comes with the Anaconda di
 You will need to submit your notebook through Github. 
 1. Create a new **public** repository on your account. It's important that the repository is public.
 2. Upload your completed **Project Submission notebook** into this repository.
-3. Send the Github link to the .ipynb Project Submission notebook to your contact person at Concordia Bootcamps by the given deadline.
+3. Send the Github link to the .ipynb Project Submission notebook to your contact person by the given deadline.
 
 ## Submission Requirements
 1. Your submission has to be in the form of a .ipynb notebook.
 2. Use the provided Project Submission notebook.
 3. Make sure that you run all cells with code in your notebook before submitting.
-4. Clean up the notebook, and only leave code required to answer the questions.
+4. Clean up your notebook, and only leave code required to answer the questions.
 
 ## Resources
 You'll need to learn Python basics, as well as navigating Jupyter Notebooks. We recommend getting started with a few of these introductory beginner friendly resources:
