@@ -5,13 +5,13 @@ Using Python and a Jupyter Notebook, you’re going to explore a data set of ove
 
 ## Getting Started: Creating a Github Account
 
-You'll need a Github account in order to download all the necessary files and to submit your final work.
+You need a Github account in order to download all the necessary files and to submit your final work.
 
 [Click here](https://github.com/) to create a Github account.
 
 ## Downloading + Accessing Necessary Files
 
-Once you've created a Github account, you will need to download this repository to your local drive.
+Once you've created a Github account, you must download this repository to your local drive.
 > Click on the green button that says "Code" > Download ZIP
 
 Unzip the folder. You should have the following files downloaded:
@@ -25,7 +25,7 @@ Anaconda Navigator (the graphical user interface that comes with the Anaconda di
 
 ## Project Submission
 
-You will need to submit your notebook through Github. 
+When you're done, submit your notebook through Github following these steps: 
 1. Create a new **public** repository on your account. It's important that the repository is public.
 2. Upload your completed **Project Submission notebook** into this repository.
 3. Send the Github link to the .ipynb Project Submission notebook to your contact person by the given deadline.
